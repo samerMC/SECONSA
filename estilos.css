@@ -1,0 +1,16 @@
+.custom-navbar {
+    background-color: rgb(251, 28, 73);
+    font
+}
+
+.custom-navbar .navbar-nav .nav-link {
+    color: black; /* Color del texto */
+}
+
+.custom-navbar .navbar-brand {
+    color: white; /* Color del logo o nombre del sitio */
+}
+
+.custom-navbar .navbar-nav .nav-link:hover {
+    color: yellow; /* Cambia el color al pasar el cursor */
+}
